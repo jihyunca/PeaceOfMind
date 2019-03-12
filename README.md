@@ -1,4 +1,4 @@
 # PeaceOfMind
 In-progress IOS app that helps individuals journal out their daily thoughts and concerns.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+https://github.com/jihyunca/PeaceOfMind/blob/master/Page%201.png
